@@ -1,0 +1,1 @@
+# epam_assignment10_lambdas-streams
